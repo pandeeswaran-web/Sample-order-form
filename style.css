@@ -210,28 +210,19 @@ body{
      text-align: center;
 }
 
-@media screen and (width:800px; height:1200px;){
+@media screen and (max-width:800px; max-height:1200px;){
    
     /*----------------------------------------------------shipping------------------------------------------------------------*/
     
-    #name,#add,#add1,#add2,#email,#phone{
-            border: transparent;
-            border-bottom: 1px solid gray;
-            outline: none;
-    }
     #name{
         width:500px;
-        
     }
     
     #add{
         width:300px;
-        
     }
     #add1{
         width: 500px;
-        
-    
     }
     #add2{
         width: 800px;
