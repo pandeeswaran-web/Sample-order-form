@@ -362,6 +362,7 @@ body{
     #cheque,#credit,#credit-date0,#credit-date1,#credit-name,#credit-amt,#credit,#sign,#sign-date{
         border: transparent;
         outline:none;
+        display: inline-block;
     }
     #para>p{
         word-spacing: 5px;
@@ -381,6 +382,7 @@ body{
     }
     #author{
         margin-top:-15px ;
+        font-size: 15px;
     }
     #credit{
         width: 500px;
