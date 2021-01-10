@@ -210,12 +210,13 @@ body{
      text-align: center;
 }
 
-@media screen and (max-width:800px; max-height:1200px;){
+@media screen and(max-width:800px;){
    
     /*----------------------------------------------------shipping------------------------------------------------------------*/
     
     #name{
         width:500px;
+        padding-left: -200px;
     }
     
     #add{
