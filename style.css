@@ -375,7 +375,7 @@ body{
     #credit,#credit-date0,#credit-date1,#credit-name,#credit-amt,#credit,#sign,#sign-date{
         border: transparent;
         border-bottom: 1px solid black;
-    
+        display:inline-block;
     }
     #cheque{
         width:140px;
