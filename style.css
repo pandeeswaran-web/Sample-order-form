@@ -220,26 +220,26 @@ body{
             outline: none;
     }
     #name{
-        width:700px;
+        width:500px;
         
     }
     
     #add{
-        width:650px;
+        width:300px;
         
     }
     #add1{
-        width: 600px;
+        width: 500px;
         
     
     }
     #add2{
-        width: 900px;
+        width: 800px;
         
     }
     
     #phone,#email{
-        width:300px; 
+        width:200px; 
         
     }
         
