@@ -218,7 +218,7 @@ body{
     }
    
     /*----------------------------------------------------shipping------------------------------------------------------------*/
-    #shipping>#nam{
+    /*#shipping>#nam{
             margin-top: -15px; 
     }
     #shipping>#addr{
@@ -226,7 +226,7 @@ body{
     }
     #shipping>#ph{
             margin-top: -15px;
-    }
+    }*/
     
     #name,#add,#add1,#add2,#email,#phone{
             border: transparent;
