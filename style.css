@@ -1,0 +1,213 @@
+*{
+    box-sizing: border-box;
+    font-family: serif,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#imageQ{
+   margin-left:-60px;
+}
+h1{
+ color: rgb(2, 53, 2);
+ margin-left: 300px;
+ margin-top: -75px;
+ font-size:45px;
+}
+body{
+    margin: 0 auto;
+    width: 900px; 
+    height: 1380px;
+}
+#shipping>h3,#order>h3,#pay>h3{
+    background-color: rgb(2, 53, 2); 
+    color: white;
+    height: 25px;
+    padding-left:25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+/*----------------------------------------------------shipping------------------------------------------------------------*/
+#shipping>#nam{
+        margin-top: -20px; 
+}
+#shipping>#addr{
+        margin-top: -20px;
+}
+#shipping>#ph{
+        margin-top: -20px;
+}
+
+#name,#add,#add1,#add2,#email,#phone{
+        border: transparent;
+        border-bottom: 1px solid gray;
+        outline: none;
+}
+#name{
+    width:854px;
+    height: 25px;
+    margin-top:5px;
+    line-height: -15px;
+    padding-top: 10px;
+}
+
+#add{
+    width:774px;
+    height: 25px;
+    line-height: -15px;
+    padding-top: 10px;
+    margin-top: 2px;
+}
+#add1{
+    width: 900px;
+    height: 25px;
+    margin: 2px;
+    line-height: -15px;
+    padding-top: 10px;
+    margin-left:-2px ;
+    margin-top: 2px;
+
+}
+#add2{
+    width: 900px;
+    height: 25px;
+    line-height: -15px;
+    padding-top: 10px;
+}
+
+#phone,#email{
+    width:400.8px; 
+    height: 25px;
+    line-height: -15px;
+    padding-top: 10px;
+    margin-top: 2px;
+}
+    
+
+
+
+/*----------------------------------------------------Order----------------------------------------------------------*/
+
+/*------------------------------------------------------Table1------------------------------------------------------*/
+#table1,#td-qty,#td-brochure,#td-price,#td-total{
+    border: 1px solid gray;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    height: 25px;
+}
+#table1{
+    width: 900px;
+    border: 1px solid gray ;
+}
+#head-row{
+    background-color: gray;
+    color: whitesmoke;
+}
+#td-qty{
+    width: 75px;
+}
+#td-brochure{
+    width: 600px;
+    padding-left: 10px;
+}
+#td-price{
+    width: 80px;
+    text-align: center;
+}
+#td-total{
+    width: 115px;
+}
+
+#table1 #rows:nth-child(odd) {
+    background-color: rgb(210, 207, 211);
+}
+
+/*-------------------------------------------Table2----------------------------------------------------------------*/    
+#table2,#row2,#td-box2{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    width:300px;
+    height: 25px;
+}
+#td-box2{
+    text-align: center;
+}
+#table2{
+    margin-left:600px;
+    margin-top: 30px;
+}
+#gst{
+    float: left;
+    text-align: end;
+    margin-left: 260px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+
+
+/*----------------------------------------------------payment------------------------------------------------------------*/
+
+#cheque,#credit,#credit-date0,#credit-date1,#credit-name,#credit-amt,#credit,#sign,#sign-date{
+    border: transparent;
+    outline:none;
+}
+#para>p{
+    word-spacing: 5px;
+}
+#master{
+    word-spacing:150px;
+    padding-left: 40px;
+}
+
+#credit,#credit-date0,#credit-date1,#credit-name,#credit-amt,#credit,#sign,#sign-date{
+    border: transparent;
+    border-bottom: 1px solid black;
+
+}
+#cheque{
+    width:140px;
+}
+#author{
+    margin-top:-15px ;
+}
+#credit{
+    width: 500px;
+    line-height: -20px;
+}
+#credit-date0{
+    width: 50px;
+}
+#credit-date1{
+    width: 80px;
+}
+#credit-name{
+    width: 630px;
+}
+#space1{
+    padding-left: 5px;
+}
+#credit-amt{
+    width: 325px;
+    padding-right: 10px;
+}
+#sign{
+    width: 450px;
+}
+#sign-date
+{
+      width: 260px;
+}
+#para2{
+    margin-top: -20px;
+}
+#para3{
+    word-spacing: 6px;
+    text-align: justify;
+}
+#bottom-box{
+    padding-top:40px;
+}
+#footer{
+     text-align: center;
+}
+
+
