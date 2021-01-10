@@ -218,15 +218,6 @@ body{
     }
    
     /*----------------------------------------------------shipping------------------------------------------------------------*/
-    #shipping>#nam{
-            margin-top: 15px; 
-    }
-    #shipping>#addr{
-            margin-top: 15px;
-    }
-    #shipping>#ph{
-            margin-top: 15px;
-    }
     
     #name,#add,#add1,#add2,#email,#phone{
             border: transparent;
@@ -236,41 +227,32 @@ body{
     #name{
         width:800px;
         height: 25px;
-        margin-top:5px;
         line-height: -15px;
-        padding-top: 5px;
     }
     
     #add{
         width:750px;
         height: 25px;
         line-height: -15px;
-        padding-top: 5px;
-        margin-top: 2px;
     }
     #add1{
         width: 900px;
         height: 25px;
         margin: 2px;
         line-height: -15px;
-        padding-top: 5px;
         margin-left:-2px ;
-        margin-top: 2px;
     
     }
     #add2{
         width: 900px;
         height: 25px;
         line-height: -15px;
-        padding-top: 5px;
     }
     
     #phone,#email{
         width:390px; 
         height: 25px;
         line-height: -15px;
-        padding-top: 5px;
-        margin-top: 2px;
     }
         
     
