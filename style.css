@@ -221,31 +221,25 @@ body{
     }
     #name{
         width:700px;
-        height: 25px;
         
     }
     
     #add{
         width:650px;
-        height: 25px;
         
     }
     #add1{
-        width: 800px;
-        height: 25px;
-        margin: 2px;
+        width: 600px;
         
     
     }
     #add2{
         width: 900px;
-        height: 25px;
         
     }
     
     #phone,#email{
         width:300px; 
-        height: 25px;
         
     }
         
