@@ -210,12 +210,7 @@ body{
      text-align: center;
 }
 
-@media screen and (max-width:760px; max-height:1200px;){
-    *{
-        box-sizing: border-box;
-        font-family: serif,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        
-    }
+@media screen and (width:800px; height:1200px;){
    
     /*----------------------------------------------------shipping------------------------------------------------------------*/
     
@@ -225,34 +220,33 @@ body{
             outline: none;
     }
     #name{
-        width:800px;
+        width:700px;
         height: 25px;
-        line-height: -15px;
+        
     }
     
     #add{
-        width:750px;
+        width:650px;
         height: 25px;
-        line-height: -15px;
+        
     }
     #add1{
-        width: 900px;
+        width: 800px;
         height: 25px;
         margin: 2px;
-        line-height: -15px;
-        margin-left:-2px ;
+        
     
     }
     #add2{
         width: 900px;
         height: 25px;
-        line-height: -15px;
+        
     }
     
     #phone,#email{
-        width:390px; 
+        width:300px; 
         height: 25px;
-        line-height: -15px;
+        
     }
         
     
@@ -260,62 +254,6 @@ body{
     
     /*----------------------------------------------------Order----------------------------------------------------------*/
     
-    /*------------------------------------------------------Table1------------------------------------------------------*/
-    #table1,#td-qty,#td-brochure,#td-price,#td-total{
-        border: 1px solid gray;
-        border-spacing: 0px;
-        border-collapse: collapse;
-        height: 25px;
-    }
-    #table1{
-        width: 900px;
-        border: 1px solid gray ;
-    }
-    #head-row{
-        background-color: gray;
-        color: whitesmoke;
-    }
-    #td-qty{
-        width: 75px;
-    }
-    #td-brochure{
-        width: 600px;
-        padding-left: 10px;
-    }
-    #td-price{
-        width: 80px;
-        text-align: center;
-    }
-    #td-total{
-        width: 115px;
-    }
-    
-    #table1 #rows:nth-child(odd) {
-        background-color: rgb(210, 207, 211);
-    }
-    
-    /*-------------------------------------------Table2----------------------------------------------------------------*/    
-    #table2,#row2,#td-box2{
-        border: 1px solid gray;
-        border-collapse: collapse;
-        border-spacing: 0px;
-        width:300px;
-        height: 25px;
-    }
-    #td-box2{
-        text-align: center;
-    }
-    #table2{
-        margin-left:600px;
-        margin-top: 30px;
-    }
-    #gst{
-        float: left;
-        text-align: end;
-        margin-left: 260px;
-        margin-top: 5px;
-        font-size: 15px;
-    }
     
     
     
